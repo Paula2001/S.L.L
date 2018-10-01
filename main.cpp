@@ -9,8 +9,7 @@ int main()
     s->add_b_i(1 ,'A');
     s->add_b_i(1 ,'1');
     s->print_all();
-    s->delete_b_i(0);
-    s->print_all();
+    s->print_b_i(2);
 
 
 
