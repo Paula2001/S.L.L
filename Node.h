@@ -6,12 +6,13 @@ class Node
 {
     public:
         Node();
-        Node(Node *n ,char c);
+        Node(char c);
+        Node *next ;
+        char value ;
     protected:
 
     private:
-        Node *next ;
-        char value ;
+
 };
 
 #endif // NODE_H

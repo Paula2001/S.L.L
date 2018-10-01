@@ -1,4 +1,18 @@
 # depslib dependency file v1.0
-1514140574 source:c:\users\paula\desktop\datastructure\sll\main.cpp
+1538415048 source:c:\users\paula\desktop\datastructure\sll\main.cpp
+	<iostream>
+	"sll.h"
+
+1538414876 source:c:\users\paula\desktop\datastructure\sll\node.cpp
+	"Node.h"
+
+1538414864 c:\users\paula\desktop\datastructure\sll\node.h
+
+1538415325 source:c:\users\paula\desktop\datastructure\sll\sll.cpp
+	"sll.h"
+	<iostream>
+
+1538412928 c:\users\paula\desktop\datastructure\sll\sll.h
+	"Node.h"
 	<iostream>
 

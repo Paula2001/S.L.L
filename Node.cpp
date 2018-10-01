@@ -4,10 +4,9 @@ Node::Node()
 {
 
 }
-Node::Node(Node *n ,char c)
+Node::Node(char c)
 {
     value = c ;
-    next = n ;
 }
 
 
