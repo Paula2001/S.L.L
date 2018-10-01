@@ -55,9 +55,11 @@ sll::delete_b_i(int index)
         pointer->next = pointer->next->next ;
     }
 }
-sll::print_b_i(int index){
+sll::print_b_i(int index)
+{
     Node *pointer = head ;
-    for(int i = 0; i < index; i++){
+    for(int i = 0; i < index; i++)
+    {
         pointer = pointer->next ;
     }
     cout << pointer->value <<endl;

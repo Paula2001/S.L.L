@@ -12,8 +12,6 @@ class sll
         print_b_i(int index);
         print_all();
         delete_all();
-    protected:
-
     private:
         Node *head = NULL ;
 };
